@@ -22,4 +22,4 @@ const setupAndStartServer = () => {
     })
 }
 
-setupAndStartServer(); 
+setupAndStartServer();   
